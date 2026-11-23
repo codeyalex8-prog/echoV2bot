@@ -1,0 +1,54 @@
+{
+  "id": "server-dev",
+  "title": "Server Development",
+  "gamepassId": "2096727637",
+  "panelIcon": "megaphone",
+  "level": "Beginner friendly",
+  "tagline": "Plan, build, secure and grow a professional Discord server from an empty template.",
+  "learn": [
+    "Plan a server around a clear goal",
+    "Design channels, roles and permissions that scale",
+    "Set up onboarding, rules and verification",
+    "Add moderation, logs and tickets",
+    "Grow and manage an active community",
+    "Run a launch checklist and monthly upkeep"
+  ],
+  "resources": [
+    {
+      "id": "yt",
+      "label": "Videos and links",
+      "description": "Where to watch, read and ask for help",
+      "file": "youtube.md"
+    },
+    {
+      "id": "tips",
+      "label": "Tips",
+      "description": "Advice that saves you time",
+      "file": "tips.md"
+    },
+    {
+      "id": "gloss",
+      "label": "Glossary",
+      "description": "Every key word explained",
+      "file": "glossary.md"
+    },
+    {
+      "id": "cheat",
+      "label": "Cheat sheet",
+      "description": "Quick reference to keep open",
+      "file": "cheatsheet.md"
+    },
+    {
+      "id": "ideas",
+      "label": "Project ideas",
+      "description": "What to build next",
+      "file": "ideas.md"
+    },
+    {
+      "id": "faq",
+      "label": "FAQ and fixes",
+      "description": "Common questions and problems",
+      "file": "faq.md"
+    }
+  ]
+}

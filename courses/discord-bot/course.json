@@ -1,0 +1,55 @@
+{
+  "id": "discord-bot",
+  "title": "Discord Bot Development",
+  "price": "$9.99",
+  "level": "Beginner friendly",
+  "tagline": "Build and launch your own Discord bot from zero, step by step.",
+  "learn": [
+    "Set up Node.js, VS Code and your project",
+    "Create the bot, invite it and log it in",
+    "Slash commands, options and subcommands",
+    "Embeds, buttons and select menus",
+    "Events, welcome messages and saving data",
+    "Hosting your bot 24/7 safely"
+  ],
+  "resources": [
+    {
+      "id": "yt",
+      "label": "Videos and links",
+      "description": "Where to watch, read and ask for help",
+      "file": "youtube.md"
+    },
+    {
+      "id": "tips",
+      "label": "Tips",
+      "description": "Advice that saves you time",
+      "file": "tips.md"
+    },
+    {
+      "id": "gloss",
+      "label": "Glossary",
+      "description": "Every key word explained",
+      "file": "glossary.md"
+    },
+    {
+      "id": "cheat",
+      "label": "Cheat sheet",
+      "description": "Quick reference to keep open",
+      "file": "cheatsheet.md"
+    },
+    {
+      "id": "ideas",
+      "label": "Project ideas",
+      "description": "What to build next",
+      "file": "ideas.md"
+    },
+    {
+      "id": "faq",
+      "label": "FAQ and fixes",
+      "description": "Common questions and problems",
+      "file": "faq.md"
+    }
+  ],
+  "gamepassId": "2092267570",
+  "panelIcon": "pc"
+}

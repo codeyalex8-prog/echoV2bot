@@ -1,0 +1,271 @@
+{
+  "counters": {
+    "support": 0,
+    "order": 0,
+    "package": 0,
+    "portfolio": 0,
+    "submission": 0,
+    "case": 1,
+    "market": 1
+  },
+  "status": {
+    "bot": "open",
+    "discord": "open",
+    "erlc": "open"
+  },
+  "panels": {
+    "courses": {
+      "channelId": "1574539347372548186",
+      "messageId": "1574548511758753995"
+    },
+    "owner": {
+      "channelId": "1571997937234346105",
+      "messageId": "1574172041173663886",
+      "page": "tickets"
+    }
+  },
+  "packages": {},
+  "links": {
+    "1444276604938489886": {
+      "robloxId": 1437267907,
+      "name": "lumcode"
+    }
+  },
+  "clicks": {},
+  "reviewed": {},
+  "claimed": {},
+  "marketWatch": {},
+  "marketClaims": {
+    "1437267907:giveaway": {
+      "discordId": "1444276604938489886",
+      "robloxName": "lumcode",
+      "at": 1795472584638,
+      "channelId": "1574550884463943755"
+    },
+    "1437267907:here": {
+      "discordId": "1444276604938489886",
+      "robloxName": "lumcode",
+      "at": 1795472584638,
+      "channelId": "1574550884463943755"
+    },
+    "1437267907:everyone": {
+      "discordId": "1444276604938489886",
+      "robloxName": "lumcode",
+      "at": 1795472584638,
+      "channelId": "1574550884463943755"
+    },
+    "1437267907:channel": {
+      "discordId": "1444276604938489886",
+      "robloxName": "lumcode",
+      "at": 1795472584638,
+      "channelId": "1574550884463943755"
+    }
+  },
+  "stickies": {},
+  "tickets": {},
+  "queue": [],
+  "blacklist": {},
+  "clients": {},
+  "notes": {},
+  "submissions": {},
+  "warns": {},
+  "cases": {
+    "1": {
+      "id": 1,
+      "action": "automod",
+      "modId": null,
+      "userId": "1561105695388999773",
+      "userTag": "jay033432",
+      "reason": "Smart-mod: possible impersonation of owner (same name as owner \"Frosty\")",
+      "at": 1795472126897,
+      "proofLink": null,
+      "extra": {
+        "text": "**Trigger:** periodic scan\n**Names seen:** `jay033432`, `Frosty`, `Renamed (impersonation)`\n**Outcome:** Nickname changed to \"Renamed (impersonation)\"."
+      },
+      "logUrl": "https://discord.com/channels/1571343810494075002/1571997618748522636/1574548963967770769",
+      "proofUrl": null
+    }
+  },
+  "strikes": {},
+  "tempbans": {},
+  "automod": {
+    "words": [
+      "codeylumleu",
+      "lumley",
+      "cheltnam"
+    ]
+  },
+  "security": {
+    "level": "high",
+    "prisonerRoleId": "1573500662338158642",
+    "locked": true,
+    "prisonCategoryId": "1574549636633468968",
+    "prisonChannelId": "1574549638017712150",
+    "panelMessageId": "1574549644216635504"
+  },
+  "jailed": {},
+  "toggles": {},
+  "maintenance": {
+    "on": false
+  },
+  "disabledCmds": {},
+  "giveaways": {},
+  "suggestions": {},
+  "faq": [],
+  "reminders": [],
+  "portfolio": [],
+  "stats": {
+    "ordersOpened": 0,
+    "ordersClosed": 0,
+    "ordersSuccessful": 0,
+    "ticketsClosed": 1,
+    "ratingSum": 0,
+    "ratingCount": 0,
+    "packageSales": 0,
+    "robuxEarned": 3875,
+    "byStaff": {
+      "1444276604938489886": 1
+    },
+    "courseSales": 3
+  },
+  "presence": {
+    "status": "online",
+    "type": "watching",
+    "text": "{queue} orders in the queue",
+    "url": "",
+    "auto": false,
+    "rotate": {
+      "on": false,
+      "interval": 60,
+      "items": [],
+      "idx": 0,
+      "last": 0
+    }
+  },
+  "courseOwned": {
+    "1444276604938489886": {
+      "discord-bot": {
+        "at": 1795472051082,
+        "robloxId": 1437267907,
+        "how": "gamepass"
+      },
+      "erlc-bot": {
+        "at": 1795472051911,
+        "robloxId": 1437267907,
+        "how": "gamepass"
+      },
+      "server-dev": {
+        "at": 1795472052392,
+        "robloxId": 1437267907,
+        "how": "gamepass"
+      }
+    }
+  },
+  "courseClaims": {
+    "1437267907:discord-bot": "1444276604938489886",
+    "1437267907:erlc-bot": "1444276604938489886",
+    "1437267907:server-dev": "1444276604938489886"
+  },
+  "courseWatch": {},
+  "courseProgress": {},
+  "digest": {
+    "settings": {},
+    "history": [],
+    "week": {
+      "joins": 0,
+      "leaves": 0
+    },
+    "snap": {
+      "at": 1795472066402,
+      "stats": {
+        "ordersOpened": 0,
+        "ordersClosed": 0,
+        "ordersSuccessful": 0,
+        "ticketsClosed": 0,
+        "ratingSum": 0,
+        "ratingCount": 0,
+        "packageSales": 0,
+        "robuxEarned": 2400,
+        "byStaff": {},
+        "courseSales": 3
+      },
+      "smart": {}
+    },
+    "lastKey": "2026-11-22"
+  },
+  "smartmod": {
+    "stats": {
+      "scanned": 0,
+      "local": 0,
+      "ai": 0,
+      "aiCalls": 2,
+      "images": 0,
+      "imageFlags": 0,
+      "impersonation": 1,
+      "falsePositives": 1,
+      "deleted": 0,
+      "byKind": {
+        "impersonation": 1
+      }
+    },
+    "trusted": {
+      "1561105695388999773": {
+        "by": "1444276604938489886",
+        "at": 1795472241217
+      }
+    },
+    "reviews": {
+      "1": {
+        "userId": "1561105695388999773",
+        "kind": "impersonation",
+        "prevNick": "Renamed (impersonation)",
+        "renamed": true,
+        "text": "### <:540554moderatoricon:1571979716880244776> Smart-mod review · Case #1\n<@1561105695388999773> may be **impersonating Frosty** (same name as owner \"Frosty\").\nNickname changed to \"Renamed (impersonation)\".\n-# False positive = undo the rename and stop checking this user.",
+        "at": 1795472127208
+      }
+    },
+    "flaggedNames": {
+      "1561105695388999773": "Frosty|Renamed (impersonation)|jay033432"
+    },
+    "recent": [],
+    "scope": "suspicious",
+    "sensitivity": "medium",
+    "scamAction": "timeout",
+    "impAction": "rename"
+  },
+  "ai": {
+    "enabled": true,
+    "limit": 1500,
+    "day": "2026-11-23",
+    "calls": 3,
+    "tokensIn": 1519,
+    "tokensOut": 210,
+    "errors": 0,
+    "total": {
+      "calls": 3,
+      "tokensIn": 1519,
+      "tokensOut": 210
+    },
+    "provider": "auto",
+    "lastModel": "groq/openai/gpt-oss-120b",
+    "lastError": "",
+    "lastMs": 1366
+  },
+  "aitools": {
+    "summaries": [
+      {
+        "at": 1795472619568,
+        "name": "market-0001",
+        "type": "market",
+        "summary": "Client purchased a Sponsored Giveaway, @here Ping Ad, @everyone Ping Ad, and a Paid Channel. The purchase was claimed and acknowledged by staff. No further action was taken in the transcript.",
+        "outcome": "completed",
+        "sentiment": "neutral",
+        "topic": "advertising purchase services",
+        "followUps": []
+      }
+    ],
+    "stats": {
+      "summaries": 1
+    }
+  }
+}

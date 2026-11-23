@@ -1,0 +1,54 @@
+{
+  "id": "erlc-bot",
+  "title": "ERLC Bot Development",
+  "gamepassId": "2091829781",
+  "panelIcon": "moderator",
+  "level": "Beginner to intermediate",
+  "tagline": "Build a Discord bot that talks to your ER:LC private server: status, players, logs and in-game commands.",
+  "learn": [
+    "Find and protect your ER:LC server key",
+    "Call the PRC API and handle errors and rate limits",
+    "Show server status and players in Discord",
+    "Send in-game commands safely from Discord",
+    "Post join, kill and command logs automatically",
+    "Link Discord and Roblox accounts, then host it"
+  ],
+  "resources": [
+    {
+      "id": "yt",
+      "label": "Videos and links",
+      "description": "Where to watch, read and ask for help",
+      "file": "youtube.md"
+    },
+    {
+      "id": "tips",
+      "label": "Tips",
+      "description": "Advice that saves you time",
+      "file": "tips.md"
+    },
+    {
+      "id": "gloss",
+      "label": "Glossary",
+      "description": "Every key word explained",
+      "file": "glossary.md"
+    },
+    {
+      "id": "cheat",
+      "label": "Cheat sheet",
+      "description": "Quick reference to keep open",
+      "file": "cheatsheet.md"
+    },
+    {
+      "id": "ideas",
+      "label": "Project ideas",
+      "description": "What to build next",
+      "file": "ideas.md"
+    },
+    {
+      "id": "faq",
+      "label": "FAQ and fixes",
+      "description": "Common questions and problems",
+      "file": "faq.md"
+    }
+  ]
+}
